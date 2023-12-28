@@ -4,13 +4,12 @@ body{
 
 .hdr , .main , .ftr{
     max-width: 600px;
-    /* border: 2px black solid; */
     margin: 0 auto;
     padding: 20px 0;
 }
 
 header ,  footer{
-    background-color:#C6A969 ;
+    background-color: #C6A969 ;
 }
 
 img{
